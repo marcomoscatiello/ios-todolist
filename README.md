@@ -1,2 +1,2 @@
 # ios-todolist
-iOS app example
+iOS app example for Bitrise
